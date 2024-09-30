@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 77f87802aa1c7954184beb5c5ea17544
+  - enabled: 1
+    path: Assets/Scenes/Principal.unity
+    guid: f1feb7bfa954cc34e84952e75941958d
+  - enabled: 1
+    path: Assets/Scenes/Cena1-1.unity
+    guid: a3ae1ca6e8753af42978c132570834e9
+  - enabled: 1
+    path: Assets/Scenes/Cena1-2.unity
+    guid: 32da559985e879e4684ff32a13cba60b
+  - enabled: 0
+    path: Assets/Scenes/Cena1-3.unity
+    guid: 14de3e5bf6e4378439f932d8ddc26bfb
+  - enabled: 1
+    path: Assets/Scenes/Cena-Arthur.unity
+    guid: f36e4d322816508499813386f5cb36cc
+  m_configObjects: {}

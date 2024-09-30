@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Scenes/Boot.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Cena-Arthur.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_Projects\\Pixel_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\anims\\abridordeportas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anims\\abridordeportas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|d:\\unity_projects\\pixel_01\\assets\\scripts\\spacers\\mudarcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spacers\\mudarcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\anims\\deathtransparence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anims\\deathtransparence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\spacers\\vcamonefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spacers\\vcamonefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\controles\\trocarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controles\\trocarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\spacers\\spawnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spacers\\spawnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\controles\\controledojogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controles\\controledojogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|D:\\Unity_Projects\\Pixel_01\\assets\\scripts\\anims\\stompdeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5AF36F-60C3-8357-00BE-DB42EE8B05D6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anims\\stompdeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:31:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeathTransparence.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Anims\\DeathTransparence.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anims\\DeathTransparence.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Anims\\DeathTransparence.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anims\\DeathTransparence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:33:08.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbridorDePortas.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Anims\\AbridorDePortas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anims\\AbridorDePortas.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Anims\\AbridorDePortas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anims\\AbridorDePortas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:53:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControleDoJogador.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Controles\\ControleDoJogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controles\\ControleDoJogador.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Controles\\ControleDoJogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controles\\ControleDoJogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:22:08.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StompDeath.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Anims\\StompDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Anims\\StompDeath.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Anims\\StompDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Anims\\StompDeath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:53:15.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MudarCam.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spacers\\MudarCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:34:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrocarJogador.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Controles\\TrocarJogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controles\\TrocarJogador.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Controles\\TrocarJogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controles\\TrocarJogador.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:29:13.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnPlayer.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Spacers\\SpawnPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spacers\\SpawnPlayer.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Spacers\\SpawnPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spacers\\SpawnPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:41:52.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VcamOneFollow.cs",
+              "DocumentMoniker": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "ToolTip": "D:\\Unity_Projects\\Pixel_01\\Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spacers\\VcamOneFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:26:55.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
